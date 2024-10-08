@@ -1,7 +1,13 @@
 print(“Hello world”)
-used_python = True
-name = “LeBron”
+
+name = “sophia”
+print(name)
 age = 35
+print(age)
 salary = 37.44
+print(salary)
+used_python = True
 plays_basketball = True
+print(used_pythin)
 jersey_number = “23”
+print(jersey_number)
